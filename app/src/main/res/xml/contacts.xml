@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContactsAccountType xmlns:android="http://schemas.android.com/apk/res/android">
+    <ContactsDataKind
+        android:detailColumn="data3"
+        android:icon="@drawable/ic_launcher_background"
+        android:mimeType="vnd.android.cursor.item/com.mwongela.contactsyncadapter.message"
+        android:summaryColumn="data2" />
+    <ContactsDataKind
+        android:detailColumn="data3"
+        android:icon="@drawable/ic_launcher_background"
+        android:mimeType="vnd.android.cursor.item/com.mwongela.contactsyncadapter.review"
+        android:summaryColumn="data2" />
+</ContactsAccountType>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactSyncAdapter</string>
+
+    <string name="permissions_alert_text">Please allow the permissions to the app and Restart the app.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="permissions_alert">Permissions Prompt!!</string>
+</resources>
